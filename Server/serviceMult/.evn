@@ -1,0 +1,4 @@
+TYPEORM_DATABASE = Multiply
+PORT=3000
+MULTIPLY_SERVICE_URL=http://localhost:3001
+FRONTEND_URL=http://localhost:3000
